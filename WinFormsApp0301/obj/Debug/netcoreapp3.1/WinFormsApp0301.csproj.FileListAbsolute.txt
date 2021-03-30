@@ -1,0 +1,16 @@
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\bin\Debug\netcoreapp3.1\WinFormsApp0301.exe
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\bin\Debug\netcoreapp3.1\WinFormsApp0301.deps.json
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\bin\Debug\netcoreapp3.1\WinFormsApp0301.runtimeconfig.json
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\bin\Debug\netcoreapp3.1\WinFormsApp0301.runtimeconfig.dev.json
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\bin\Debug\netcoreapp3.1\WinFormsApp0301.dll
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\bin\Debug\netcoreapp3.1\WinFormsApp0301.pdb
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\obj\Debug\netcoreapp3.1\WinFormsApp0301.csprojAssemblyReference.cache
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\obj\Debug\netcoreapp3.1\WinFormsApp0301.Form1.resources
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\obj\Debug\netcoreapp3.1\WinFormsApp0301.csproj.GenerateResource.cache
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\obj\Debug\netcoreapp3.1\WinFormsApp0301.AssemblyInfoInputs.cache
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\obj\Debug\netcoreapp3.1\WinFormsApp0301.AssemblyInfo.cs
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\obj\Debug\netcoreapp3.1\WinFormsApp0301.csproj.CoreCompileInputs.cache
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\obj\Debug\netcoreapp3.1\WinFormsApp0301.dll
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\obj\Debug\netcoreapp3.1\WinFormsApp0301.pdb
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\obj\Debug\netcoreapp3.1\WinFormsApp0301.genruntimeconfig.cache
+C:\Users\84229\source\repos\WinFormsApp0301\WinFormsApp0301\obj\Debug\netcoreapp3.1\WinFormsApp0301.ChildForms.Form2.resources
